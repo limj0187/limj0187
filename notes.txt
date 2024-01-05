@@ -2,8 +2,8 @@ today,
 
 ask prof
 courses 
-cncl lab desk
 
+cncl lab desk
 ask questions about the talk
 ask about the cncl laptop, bag and headset
 
