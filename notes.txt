@@ -8,3 +8,6 @@ ask questions about the talk
 ask about the cncl laptop, bag and headset
 
 i want to buy a dp to hdmi adaptor
+
+citations:
+Y. Choi, H. Lim, H. Choi and I. -J. Kim, "GAN-Based Anomaly Detection and Localization of Multivariate Time Series Data for Power Plant," 2020 IEEE International Conference on Big Data and Smart Computing (BigComp), Busan, Korea (South), 2020, pp. 71-74, doi: 10.1109/BigComp48618.2020.00-97.
