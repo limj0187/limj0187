@@ -3,9 +3,12 @@ today,
 ask prof
 courses 
 what is my scope and specific question statement
-keywords: sensors, factory, gan, vae, iot, anomaly detection
-the keywords for the search 
+keywords: sensors, factory, gan, vae, iot, anomaly detection, time series data, manufacturing, 
+clarify the keywords for the search 
+
 cncl lab desk
+
 ask questions about the talk
+ask about the cncl laptop, bag and headset
 
 i want to buy a dp to hdmi adaptor
