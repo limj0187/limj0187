@@ -12,3 +12,22 @@ ask questions about the talk
 ask about the cncl laptop, bag and headset
 
 i want to buy a dp to hdmi adaptor
+
+
+Dear Prof Dusit,
+
+I would like to clarify a few things from the meeting yestrerday,
+
+Is the focus for this survey paper going to be:
+"survey of generative AI applications on anomaly detection in manufacturing"?
+
+Can I include keywords such as:
+sensors, factory, GAN, VAE, IOT, anomaly detection, time series data, manufacturing
+Or is there any other keywords that I should include?
+
+If you have the time, I would be grateful if I could ask you some additional questions later.
+
+Thank you for your help.
+
+Thank you,
+Lim Jiun Yeu
