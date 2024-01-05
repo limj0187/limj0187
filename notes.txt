@@ -3,7 +3,7 @@ today,
 ask prof
 courses 
 what is my scope and specific question statement
-field of study?
+keywords, sensors, factory, gan, vae, iot, anomaly detection
 the keywords for the search 
 cncl lab desk
 ask questions about the talk
