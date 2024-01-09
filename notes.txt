@@ -24,7 +24,9 @@ survey structure
   problems faced by anomaly detection
     they usually have not much anomalous data to train on
     some people use statistical methods to test for anomaly
-
+    problems are diverse type of dataset
+    high complexity leads to long training times and high memory costs
+    
   how each type of gai is used to tackle each of these problems
 2 related work
     some papers use representation based methods, others use reconstruction based methods
@@ -41,6 +43,7 @@ survey structure
   table for summarising all related surveys for both gai and anomaly detection
   remember to highlight why this survey is different from the other related ones
 3 in depth analysis of existing work
+  
   how gai is used to engage different parts of anomaly detection
   and which survey/paper is relevant to which part 
   tool wear monitoring
