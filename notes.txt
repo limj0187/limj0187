@@ -43,6 +43,11 @@ survey structure
 3 in depth analysis of existing work
   how gai is used to engage different parts of anomaly detection
   and which survey/paper is relevant to which part 
+  tool wear monitoring
+  product monitoring/ quality inspection
+  machine health
+  remaining useful life prediction 
+  fault diagnosis
 4 future research directions 
   summarise and future research paths
 5 conclusion
