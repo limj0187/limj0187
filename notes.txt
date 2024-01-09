@@ -4,12 +4,14 @@ HR courses, ask Yanru about the ones that I cannot do now
 read papers sent by Guangyuan
 
 ask prof
-courses 
 cncl lab desk
 ask questions about the talk
 ask about the cncl laptop, bag and headset
 what is this abut 10 seminars per acedemic year?
-
+what is my topic for this survey paper? "survey of generative AI applications on anomaly detection in manufacturing"
+what is scope for survey paper?
+do i need to come up with a list of 100 papers?
+probably need to watch this video again. 
 
 GAN Generative Adversarial Networks
 GDM Generative Diffusion model
