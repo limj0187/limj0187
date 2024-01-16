@@ -5,6 +5,14 @@ ask thomas and kevin if bryan can be co supervisor
   ask dusit and bryan what can he contribute to my phd
 do the survey paper things
 
+ask prof:
+about choice of courses 
+the research integrity course
+cncl lab desk
+ask questions about the talk
+probably need to watch this video again. 
+ask about the cncl laptop, bag and headset
+
 numerical algo:
 read the notes, do the hw (for this week)
 read relevant textbook chapters (for this week)
@@ -17,12 +25,9 @@ convex optimisation:
 read the notes, do the hw  (for this week)
 read relevant textbook chapters (for this week)
 
+DL for NLP:
+read the notes, do the hw  (for this week)
+read relevant textbook chapters (for this week)
 
-ask prof:
-about choice of courses 
-the research integrity course
-cncl lab desk
-ask questions about the talk
-probably need to watch this video again. 
-ask about the cncl laptop, bag and headset
+
 
