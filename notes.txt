@@ -1,5 +1,6 @@
 today:
 do the charity 
+transfer notes to onedrive
 
 numerical algo:
 read the notes, do the hw (for this week)
