@@ -1,59 +1,22 @@
-today,
+today:
+do the charity 
 
-read papers sent by Guangyuan
+numerical algo:
+read the notes, do the hw (for this week)
+read relevant textbook chapters (for this week)
 
-ask prof
+statistical methods:
+read the notes, do the hw  (for this week)
+read relevant textbook chapters (for this week)
+
+convex optimisation:
+read the notes, do the hw  (for this week)
+read relevant textbook chapters (for this week)
+
+
+ask prof:
 cncl lab desk
 ask questions about the talk
-ask about the cncl laptop, bag and headset
-what is this abut 10 seminars per acedemic year?
-what is my topic for this survey paper? 
-  "survey of generative AI applications on anomaly detection in manufacturing"
-what is scope for survey paper?
-do i need to come up with a list of 100 papers?
 probably need to watch this video again. 
+ask about the cncl laptop, bag and headset
 
-GAN Generative Adversarial Networks
-GDM Generative Diffusion model
-NF Normalising Flow 
-Transformers
-VAE Variational AutoEncoders
-
-survey structure
-1 intro
-  problems faced by anomaly detection
-    they usually have not much anomalous data to train on
-    some people use statistical methods to test for anomaly
-    problems are diverse type of dataset
-    high complexity leads to long training times and high memory costs
-    
-  how each type of gai is used to tackle each of these problems
-2 related work
-    some papers use representation based methods, others use reconstruction based methods
-  background knowledge of gai and related surveys 
-    different gais, gan, vae, nf, t, etc,
-    how they work + how advantages and disadvantages
-    maybe some recent advancements in this ai
-    add a figure of how each ai is structured?
-  related surveys
-    
-    gai and what is different about these surveys
-    ai enabled physical layer comunications (ai applications in anomaly detections)
-    what does each survey 
-  table for summarising all related surveys for both gai and anomaly detection
-  remember to highlight why this survey is different from the other related ones
-3 in depth analysis of existing work
-  
-  how gai is used to engage different parts of anomaly detection
-  and which survey/paper is relevant to which part 
-  tool wear monitoring
-  product monitoring/ quality inspection
-  machine health
-  remaining useful life prediction 
-  fault diagnosis
-4 future research directions 
-  summarise and future research paths
-5 conclusion
-
-citations:
-Y. Choi, H. Lim, H. Choi and I. -J. Kim, "GAN-Based Anomaly Detection and Localization of Multivariate Time Series Data for Power Plant," 2020 IEEE International Conference on Big Data and Smart Computing (BigComp), Busan, Korea (South), 2020, pp. 71-74, doi: 10.1109/BigComp48618.2020.00-97.
