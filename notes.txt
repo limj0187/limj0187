@@ -17,20 +17,18 @@ ask prof:
   ask about the cncl laptop, bag and headset
 
 numerical algo:
-read the notes, do the hw (for this week)
-read relevant textbook chapters (for this week)
+read the notes, do the hw (for this week) done
+read relevant textbook chapters (for this week) done
 
 statistical methods:
-read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
+read the notes, do the hw  (for this week) done
+read relevant textbook chapters (for this week) done
 
 convex optimisation:
-read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
+read the notes, do the hw  (for this week) done
+read relevant textbook chapters (for this week) done
 
 DL for NLP:
-read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
-
-
+read the notes, do the hw  (for this week) done
+read relevant textbook chapters (for this week) done
 
