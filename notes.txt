@@ -1,6 +1,7 @@
 today:
 do the survey paper things
-can ask library about ieee xplore
+  definition of anomaly detection
+  how is this survey different from others?
 get some rough paper
 
 ask thomas and kevin if bryan can be co supervisor
