@@ -1,13 +1,20 @@
 today:
+download textbooks to phone
+get some rough paper
+ask prof about choice of courses tomorrow after convex optimisation
+ask the research integrity course
+
+later:
 do the survey paper things
   definition of anomaly detection
   how is this survey different from others?
-get some rough paper
 
-ask thomas and kevin if bryan can be co supervisor
-  ask dusit and bryan what can he contribute to my phd
+thoughts:
+do I want to print textbook chapters?
+ask dusit and bryan what can he contribute to my phd
   dusit wants me to.cc him when Kevin and Thomas said OK to Bryan being a Co- supervisor 
   what do I want to do with this PhD?
+
 
 ask prof:
   about choice of courses 
@@ -17,18 +24,27 @@ ask prof:
   probably need to watch this video again. 
   ask about the cncl laptop, bag and headset
 
+Per week:
 numerical algo:
-print and read the notes, do the hw (for this week)
-read relevant textbook chapters (for this week)
+print and read the notes
+read relevant textbook chapters 
+attend lecture
+do the hw 
 
 statistical methods:
-print and read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
+print and read the notes
+read relevant textbook chapters 
+attend lecture
+do the hw 
 
 convex optimisation:
-print and read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
+print and read the notes
+read relevant textbook chapters 
+attend lecture
+do the hw 
 
 DL for NLP:
-print and read the notes, do the hw  (for this week)
-read relevant textbook chapters (for this week)
+print and read the notes
+read relevant textbook chapters 
+attend lecture
+do the hw 
