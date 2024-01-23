@@ -1,5 +1,4 @@
 today:
-download textbooks to phone
 get some rough paper
 ask prof about choice of courses tomorrow after convex optimisation
 ask the research integrity course
@@ -38,7 +37,7 @@ statistical methods:
 [] do the hw 
 
 convex optimisation:
-[] print and read the notes
+[x] print and read the notes
 [] read relevant textbook chapters 
 [] attend lecture
 [] do the hw 
