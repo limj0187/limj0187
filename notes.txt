@@ -1,6 +1,4 @@
 today:
-get some rough paper
-ask prof about choice of courses tomorrow after convex optimisation
 ask the research integrity course
 
 later:
@@ -16,7 +14,6 @@ ask dusit and bryan what can he contribute to my phd
 
 
 ask prof:
-  about choice of courses 
   the research integrity course
   cncl lab desk
   ask questions about the talk
@@ -39,11 +36,11 @@ statistical methods:
 convex optimisation:
 [x] print and read the notes
 [] read relevant textbook chapters 
-[] attend lecture
+[x] attend lecture
 [] do the hw 
 
 DL for NLP:
-[] print and read the notes
-[] read relevant textbook chapters 
+[x] print and read the notes
+[x] read relevant textbook chapters 
 [] attend lecture
 [] do the hw 
