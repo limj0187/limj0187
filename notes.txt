@@ -25,13 +25,13 @@ numerical algo:
 [x] print and read the notes
 [x] read relevant textbook chapters 
 [x] attend lecture
-[] do the hw 
+[x] do the hw 
 
 statistical methods:
 [x] print and read the notes
 [x] read relevant textbook chapters 
 [x] attend lecture
-[] do the hw 
+[x] do the hw 
 
 convex optimisation:
 [x] print and read the notes
@@ -42,5 +42,5 @@ convex optimisation:
 DL for NLP:
 [x] print and read the notes
 [x] read relevant textbook chapters 
-[] attend lecture
+[x] attend lecture
 [] do the hw 
