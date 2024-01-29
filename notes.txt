@@ -4,6 +4,30 @@ do the survey paper things
   definition of anomaly detection
   how is this survey different from others?
 
+include the problems with Gen AI
+
+In the ever-evolving landscape of manufacturing, the integration of advanced technologies has become paramount for optimizing processes, enhancing efficiency, and ensuring product quality. Among these cutting-edge technologies, Generative Artificial Intelligence (AI) and Anomaly Detection have emerged as powerful tools reshaping the manufacturing industry.
+
+points
+within manufacturing, including advanced technologies is important for improving efficiency and quality.
+one of the new technologies is generative ai for use in anomaly detection.
+
+Generative AI, a subset of artificial intelligence, leverages deep learning techniques to generate new and meaningful data. In the context of manufacturing, Generative AI can be employed to create realistic simulations, generate synthetic data for training models, and aid in the design optimization process. By mimicking real-world scenarios, Generative AI contributes to the development of innovative solutions, accelerating prototyping, and facilitating the exploration of design alternatives.
+
+points 
+gen ai is a subset of artificial intelligence that uses deep learning to create new data. gen ai can be used in many areas for manufacturing, such as simulations, synthetic data and design. gen ai can help increase the pace of innovation in these areas.
+
+Anomaly detection, on the other hand, plays a crucial role in identifying deviations from the norm within manufacturing processes. In an environment where precision and consistency are paramount, detecting anomalies can prevent defects, reduce downtime, and enhance overall product quality. Traditional methods of anomaly detection often rely on rule-based systems, but the complexity of modern manufacturing processes has led to an increased reliance on advanced techniques, such as machine learning algorithms.
+
+points
+anomaly detection is the 
+
+The marriage of Generative AI and Anomaly Detection holds immense potential for revolutionizing manufacturing practices. Generative models can simulate various operating conditions, allowing anomaly detection systems to be trained on a more comprehensive dataset, including rare or unseen scenarios. This synergy enables manufacturers to proactively identify and address potential issues before they escalate, leading to improved operational reliability and reduced costs associated with unplanned downtime and defective products.
+
+In this dynamic landscape, the application of Generative AI and Anomaly Detection extends beyond conventional practices. It opens avenues for predictive maintenance, where anomalies are not just detected but anticipated, enabling manufacturers to schedule maintenance activities at optimal times. This predictive capability has the potential to significantly extend the lifespan of machinery, enhance resource allocation, and ultimately contribute to sustainable and efficient manufacturing practices.
+
+As manufacturers continue to embrace the era of smart manufacturing, the incorporation of Generative AI and Anomaly Detection becomes a pivotal strategy for staying ahead in a highly competitive market. This integration promises not only increased operational efficiency but also a transformative approach to problem-solving, innovation, and continuous improvement in the manufacturing sector.
+
 later:
 research integrity course
 
