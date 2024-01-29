@@ -1,10 +1,11 @@
 today:
-ask the research integrity course
+ask about the research topic form
 
 later:
 do the survey paper things
   definition of anomaly detection
   how is this survey different from others?
+research integrity course
 
 thoughts:
 do I want to print textbook chapters?
@@ -22,25 +23,25 @@ ask prof:
 
 Per week:
 numerical algo:
-[x] print and read the notes
-[x] read relevant textbook chapters 
-[x] attend lecture
-[x] do the hw 
+[] print and read the notes
+[] read relevant textbook chapters 
+[] attend lecture
+[] do the hw 
 
 statistical methods:
-[x] print and read the notes
-[x] read relevant textbook chapters 
-[x] attend lecture
-[x] do the hw 
+[] print and read the notes
+[] read relevant textbook chapters 
+[] attend lecture
+[] do the hw 
 
 convex optimisation:
-[x] print and read the notes
+[] print and read the notes
 [] read relevant textbook chapters 
-[x] attend lecture
+[] attend lecture
 [] do the hw 
 
 DL for NLP:
-[x] print and read the notes
-[x] read relevant textbook chapters 
-[x] attend lecture
+[] print and read the notes
+[] read relevant textbook chapters 
+[] attend lecture
 [] do the hw 
