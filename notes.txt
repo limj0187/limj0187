@@ -4,13 +4,6 @@ do the survey paper things
   definition of anomaly detection
   how is this survey different from others?
 
-Hi Yanru, 
-I'm writing a proposed research topic form for NTU.
-I asked Kevin and he mentioned that there is a proposed research topic between ntu and bosch.
-May I ask if its possible for you to send that to me for use as a reference?
-
-
-
 later:
 research integrity course
 
@@ -48,14 +41,5 @@ convex optimisation:
 [] read relevant textbook chapters 
 [] attend lecture
 [] do the hw 
-
-include the problems with Gen AI
-
-In today’s era of manufacturing, the integration of advanced technologies plays an important role in improving both efficiency and the overall quality of the production processes. Among these emerging technologies is generative Artificial Intelligence (generative AI), which has been growing in prevalence, particularly in anomaly detection. Generative AI can improve accuracy and efficiency in identifying anomalies within the manufacturing process, this leads to improving efficiency and quality of the manufactured products.
-
-Generative AI uses deep learning techniques to create novel datasets. Its applications in manufacturing, includes areas such as simulations, synthetic data generation, and design optimization. Generative AI can potentially improve the rate of innovation, accelerating the pace of advancements across the manufacturing industry.
-
-Anomaly detection is to identify defects or predict when the next occurence of a defect will happen. consistent quality and efficiency are important in manufacturing. anomaly detection prevents defects, reduces downtimes for machines and can improve product quality. conventionally, anomaly detection techniques do not rely on machine leaearning. but with increased complexity of modern manufacturing, this has been changing.
-Points
 
 applying generative ai to anomaly detection has many potential benefits for manufacturing. generative ai can help with simulating different operating conditions, which can lead to a broader dataseet in which anomaly detection systems can learn from, this can also include rare or even completely unknown scenarios. This means that manufacturers can identify potential problems even before they occur, leading to improved efficiency and reducing costs for the manufactuing process.
