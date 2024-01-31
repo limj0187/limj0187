@@ -1,5 +1,4 @@
 today:
-write a draft email to thomas
 some survey things everyday
 do the survey paper things
   definition of anomaly detection
