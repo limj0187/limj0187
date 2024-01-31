@@ -1,4 +1,6 @@
 today:
+clear email
+write a draft email to thomas
 some survey things everyday
 do the survey paper things
   definition of anomaly detection
@@ -36,10 +38,3 @@ DL for NLP:
 [] attend lecture
 [] do the hw 
 
-convex optimisation:
-[] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
-
-applying generative ai to anomaly detection has many potential benefits for manufacturing. generative ai can help with simulating different operating conditions, which can lead to a broader dataseet in which anomaly detection systems can learn from, this can also include rare or even completely unknown scenarios. This means that manufacturers can identify potential problems even before they occur, leading to improved efficiency and reducing costs for the manufactuing process.
