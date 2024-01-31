@@ -1,5 +1,4 @@
 today:
-clear email
 write a draft email to thomas
 some survey things everyday
 do the survey paper things
@@ -13,7 +12,6 @@ thoughts:
 ask dusit and bryan what can he contribute to my phd
   dusit wants me to.cc him when Kevin and Thomas said OK to Bryan being a Co- supervisor 
   what do I want to do with this PhD?
-
 
 ask prof:
   cncl lab desk
@@ -33,7 +31,7 @@ statistical methods:
 [] do the hw 
 
 DL for NLP:
-[] print and read the notes
+[x] print and read the notes
 [] read relevant textbook chapters 
 [] attend lecture
 [] do the hw 
