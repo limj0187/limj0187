@@ -19,19 +19,19 @@ ask prof:
 Per week:
 numerical algo:
 [x] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
+[x] read relevant textbook chapters 
+[x] attend lecture
 [] do the hw 
 
 statistical methods:
 [x] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
+[x] read relevant textbook chapters 
+[x] attend lecture
+[x] do the hw 
 
 DL for NLP:
 [x] print and read the notes
-[] read relevant textbook chapters 
-[] attend lecture
+[x] read relevant textbook chapters 
+[x] attend lecture
 [] do the hw 
 
