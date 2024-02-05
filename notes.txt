@@ -26,7 +26,7 @@ numerical algo:
 statistical methods:
 [x] print and read the notes
 [x] read relevant textbook chapters 
-[x] xattend lecture
+[x] attend lecture
 [x] do the hw 
 
 DL for NLP:
