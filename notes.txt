@@ -20,8 +20,8 @@ Per week:
 numerical algo:
 [x] print and read the notes
 [x] read relevant textbook chapters 
-[] attend lecture
-[] do the hw 
+[x] attend lecture
+[x] do the hw 
 
 statistical methods:
 [x] print and read the notes
