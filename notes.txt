@@ -34,4 +34,4 @@ DL for NLP:
 [] read relevant textbook chapters 
 [] attend lecture
 [] do the hw 
-
+https://github.com/ntu-nail/CE7455
