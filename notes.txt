@@ -1,6 +1,7 @@
 today:
 some survey things everyday
 do the survey paper things
+  create a table for all the references so far
   definition of anomaly detection
   how is this survey different from others?
 
@@ -35,3 +36,5 @@ DL for NLP:
 [x] attend lecture
 [] do the hw 
 https://github.com/ntu-nail/CE7455
+Papers:
+https://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf
